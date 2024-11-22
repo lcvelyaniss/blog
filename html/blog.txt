@@ -1,0 +1,95 @@
+<nav>
+        <a href="#about"><img src="file:///C:/Users/trabo/OneDrive/Plocha/fig1.gif" class="fig1" alt=""></a>
+        <img class="fig2" src="file:///C:/Users/trabo/OneDrive/Plocha/fig2.gif" alt="">
+        <img class="fig3" src="file:///C:/Users/trabo/OneDrive/Plocha/fig3.gif" alt="">
+        <img class="fig4" src="file:///C:/Users/trabo/OneDrive/Plocha/fig4.gif" alt="">
+        <img class="fig5" src="file:///C:/Users/trabo/OneDrive/Plocha/fig5.gif" alt="">
+        <img class="fig6" src="file:///C:/Users/trabo/OneDrive/Plocha/fig6.gif" alt="">
+        <img class="fig7" src="file:///C:/Users/trabo/OneDrive/Plocha/fig7.gif" alt="">
+    </nav>
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.75rem;
+    font-family: "Cormorant Garamond", serif;
+}
+
+#about {
+    margin-top: 200px;
+}
+
+nav {
+    position: absolute;
+    z-index: 2;
+}
+
+.fig1 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    z-index: 2;
+    top: 63px;
+    left: 320px;
+}
+
+.fig2 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    z-index: 2;
+    top: 63px;
+    left: 320px;
+}
+
+.fig3 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    z-index: 2;
+    top: 63px;
+    left: 320px;
+}
+
+.fig4 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    z-index: 2;
+    top: 63px;
+    left: 320px;
+}
+
+.fig5 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    z-index: 2;
+    top: 63px;
+    left: 320px;
+}
+
+.fig6 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    z-index: 2;
+    top: 63px;
+    left: 320px;
+}
+
+.fig7 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    z-index: 2;
+    top: 63px;
+    left: 320px;
+}

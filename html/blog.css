@@ -14,85 +14,8 @@
     z-index: 1;
 }
 
-.fig1 {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    z-index: 2;
-    top: 63px;
-    left: 320px;
-}
-
-.fig2 {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    z-index: 2;
-    top: 63px;
-    left: 320px;
-}
-
-.fig3 {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    z-index: 2;
-    top: 63px;
-    left: 320px;
-}
-
-.fig4 {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    z-index: 2;
-    top: 63px;
-    left: 320px;
-}
-
-.fig5 {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    z-index: 2;
-    top: 63px;
-    left: 320px;
-}
-
-.fig6 {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    z-index: 2;
-    top: 63px;
-    left: 320px;
-}
-
-.fig7 {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    width: 65%;
-    z-index: 2;
-    top: 63px;
-    left: 320px;
-}
-
-nav {
-    position: absolute;
-    right: 2%;
-    top: 30px;
-    z-index: 2;
-}
-
-.text-kontejner h3{
-    font-weight: bold;
+.text-kontejner h2{
+    font-weight: 200;
     font-size: 5rem;
     font-family: "Allura", cursive;
     font-style: normal;
@@ -111,13 +34,21 @@ nav {
     margin-right: 2rem;
 }
 
-#about {
-    margin-top: 200px;
+.poemrectangle{
+    position: relative;
+    height: 380px;
+    width: 230px;
+    border: 100px;
+    margin-left: 2rem ;
+    background-color: whitesmoke;
+    mask: radial-gradient(14px at 40px 40px, transparent 98%, black) -40px -40px;
 }
 
-nav a {
-    text-decoration: none;
+.poemhead {
+    font-family: "Allura", cursive;
+    font-style: normal;
+    font-size: 2rem;
     color: black;
-    font-size: 1.75rem;
-    font-family: "Cormorant Garamond", serif;
+    text-align: center;
+    font-weight: 200;
 }
