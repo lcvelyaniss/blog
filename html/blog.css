@@ -41,6 +41,7 @@
     border: 100px;
     margin-left: 2rem ;
     background-color: whitesmoke;
+    display: inline-block;
     mask: radial-gradient(14px at 40px 40px, transparent 98%, black) -40px -40px;
 }
 
@@ -59,4 +60,40 @@
     font-weight: 300;
     color: black;
     font-size: 1.1rem;
+}
+
+.firstrectangle {
+    position: relative;
+    height: 380px;
+    width: 230px;
+    border: 100px;
+    margin-left: 2rem ;
+    background-color: whitesmoke;
+    display: inline-block;
+    mask: radial-gradient(14px at 40px 40px, transparent 98%, black) -40px -40px;
+}
+
+.firstheading {
+    font-family: "Allura", cursive;
+    font-style: normal;
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+    font-weight: 200;
+}
+
+.article {
+    font-family: "Cormorant Garamond", serif;
+    margin-left: 0.5rem;
+    font-weight: 300;
+    color: black;
+    font-size: 1.1rem;
+}
+
+.more1 {
+    margin-left: 0.5rem;
+    font-weight: 300;
+    font-size: 1.1rem;
+    border: 0px transparent;
+    background-color: whitesmoke;
 }
